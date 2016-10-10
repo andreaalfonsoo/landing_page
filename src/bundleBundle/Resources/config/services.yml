@@ -1,0 +1,4 @@
+services:
+#    bundle.example:
+#        class: bundleBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

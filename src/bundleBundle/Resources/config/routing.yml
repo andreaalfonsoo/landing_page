@@ -1,0 +1,7 @@
+bundle_homepage:
+    path:     /
+    defaults: { _controller: bundleBundle:Default:index }
+
+bundle_pagina1:
+    path:     /{numProduct}
+    defaults: { _controller: bundleBundle:Default:producto }
